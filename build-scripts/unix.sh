@@ -1,4 +1,4 @@
-pip install -r requirements.txt
+pip install -r requirements.txt --break-system-packages
 clear
 python3 -m PyInstaller --onefile main.py --add-data "GUI.py:." --distpath bin/
 mv dist/main dist/ngif
