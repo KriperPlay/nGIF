@@ -47,7 +47,7 @@ The nGIF project is a graphical user interface (GUI) application developed using
 # Usage
 
 1. Run the Application:
-   After build, binary file will be in 'bin'
+   After build, binary file will be in root dir
 
 3. Add Images:
 
