@@ -1,0 +1,5 @@
+imageio
+pyqt6
+pyqt-tools
+PySide6
+PyInstaller
