@@ -36,6 +36,13 @@ The nGIF project is a graphical user interface (GUI) application developed using
    cd nGIF
     ```
 2. Run unix.sh or windows.bat
+   ```
+   # if unix
+   chmod +x build-scripts/unix.sh
+   ./build-scripts/unix.sh
+
+   #if windows
+   ./build-scripts/windows.sh
 
 # Usage
 
