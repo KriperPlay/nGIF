@@ -7,6 +7,7 @@ cls
 python -m PyInstaller --onefile main.py --add-data "GUI.py;." --distpath bin/
 
 move bin\main.exe bin\ngif.exe
+move bin\ngif.exe .\
 
 rmdir /S /Q build
 rmdir /S /Q dist
