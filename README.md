@@ -81,6 +81,10 @@ The nGIF project is a graphical user interface (GUI) application developed using
 
    • Click on the "GitHub" menu option to open the project's GitHub page in your web browser.
 
+# Screenshots
+![изображение](https://github.com/user-attachments/assets/30b58880-877e-4822-8a4b-dbc4ff8f9b3c)
+
+
 # Contributing
 
 Contributions are welcome! If you would like to contribute to this project, please fork the repository and submit a pull request with your changes.
