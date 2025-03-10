@@ -53,7 +53,6 @@ class App(QtWidgets.QMainWindow, Ui_MainWindow):
         self.image_array.remove(self.comboBox.currentText())
         self.comboBox.removeItem(index)
         self.label_3.setPixmap(QPixmap(u"imgs/grey.png"))
-        print(self.spinBox.value())
 
     def create_gif(self) -> None:
         imgs = [imageio.imread(image) for image in self.image_array]
