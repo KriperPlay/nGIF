@@ -72,7 +72,7 @@ The nGIF project is a graphical user interface (GUI) application developed using
 
 7. Create GIF:
 
-   • Specify a duration for each frame using the spin box.
+   • Specify a duration(in milliseconds) for each frame using the spin box.
 
    • Click on "Save" to open a file dialog and choose where to save the generated GIF.
 
