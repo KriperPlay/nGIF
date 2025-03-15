@@ -15,7 +15,7 @@ The nGIF project is a graphical user interface (GUI) application developed using
 
 • Image Management: Users can add multiple images to the project and remove them as needed.
 
-• GIF Creation: Users can create a GIF from the selected images and specify the duration for each frame.
+• GIF Creation: Users can create a GIF from the selected images and specify the duration for all frames.
 
 • File Saving: The application allows users to save the created GIF to a specified location.
 
@@ -72,7 +72,7 @@ The nGIF project is a graphical user interface (GUI) application developed using
 
 7. Create GIF:
 
-   • Specify a duration(in milliseconds) for each frame using the spin box.
+   • Specify a duration(in milliseconds) for all frames using the spin box.
 
    • Click on "Save" to open a file dialog and choose where to save the generated GIF.
 
@@ -88,10 +88,3 @@ The nGIF project is a graphical user interface (GUI) application developed using
 ![изображение](https://github.com/user-attachments/assets/30b58880-877e-4822-8a4b-dbc4ff8f9b3c)
 
 
-# Contributing
-
-Contributions are welcome! If you would like to contribute to this project, please fork the repository and submit a pull request with your changes.
-
-# Contact
-
-For any inquiries or issues, please contact the project maintainer through the GitHub repository.
